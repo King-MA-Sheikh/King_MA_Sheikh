@@ -86,6 +86,6 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 ## 💡 **Quote of the Day**  
 
 > "The only way to learn a new programming language is by writing programs in it."  
-> — *Dennis Ritchie*  
+> — *King MA Sheikh*  
 
 ![Footer](https://github.com/King-MA-Sheikh/King-MA-Sheikh/blob/main/assets/footer.gif?raw=true) *(Optional animated footer)*
