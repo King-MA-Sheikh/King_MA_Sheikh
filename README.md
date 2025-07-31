@@ -21,10 +21,14 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" title="Ansible"/>   
 
+### <h3>🧬 Orchestration & Management</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" />
+<img src="https://raw.githubusercontent.com/King-MA-Sheikh/King-MA-Sheikh/main/assets/k8s-cluster.svg" height="40" title="K8s Cluster" />
+
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80" title="Grafana"/> &nbsp;
-<img src="https://raw.githubusercontent.com/King-MA-Sheikh/King-MA-Sheikh/main/assets/cloudwatch.svg" height="80" title="Amazon CloudWatch"/>
 
 ### 🛢️ Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" title="PostgreSQL"/> &nbsp;
