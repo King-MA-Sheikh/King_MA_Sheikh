@@ -1,76 +1,66 @@
-<h1 align="center">Hey there 👋, I'm **Mohd Alkamah (King‑MA‑Sheikh)**</h1>
+# Hi there 👋, I’m **Mohd Alkamah (King‑MA‑Sheikh)**
+
+I’m a **Python Developer**, **DSA learner**, and **DevOps Enthusiast** based in 🇮🇳  
+I build real-world projects, solve algorithmic challenges, and create DevOps automation workflows.  
+
+---
+
+## 🚀 What I Do
+
+- Write and share Python scripts, DSA solutions, and automation tools  
+- Use AWS, Docker, Jenkins, Prometheus, Terraform (IaC) in real deployments  
+- Publish walkthrough tutorials on my YouTube channel [**IT Tech with Sheikh**](https://www.youtube.com/@IT_Tech_with_Sheikh)
+
+---
+
+## 🔧 Tech Skills & Tools
 
 <p align="center">
-A Python Developer | DevOps Enthusiast | DSA Learner 🇮🇳  
-Coding solutions and tutorials on real projects 🚀
+  <img src="https://img.shields.io/badge/Python-88%25-yellow?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />  
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
 </p>
 
 ---
 
-### ✨ Featured Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/King-MA-Sheikh/King-MA-Sheikh/main/assets/hero-animation.gif" alt="Coding Animation" width="80%"/>
-</p>
-
----
-
-## 🧠 Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-88%25-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
----
-
-### 📁 Popular Repositories
+## 📁 Most Used Repositories
 
 | Repository | Description |
 |------------|-------------|
-| **Python-DSA-DevOps** | Core repo—combines Python scripts, DSA projects & DevOps pipelines. |
-| **Python-Projects** | Mini Python apps and utilities for logic-building and learning. |
-| **DevOps-Shell-Scripting** | Automation and CI/CD examples using shell, Docker & AWS. |
+| **Python-DSA-DevOps** | My flagship repo combining Python scripts, DSA solutions, and DevOps pipelines. |
+| **Python-Projects** | Mini Python programs and automation utilities for learning and experimentation. |
+| **DevOps-Shell-Scripting** | Shell scripts and CI/CD examples for automation and infrastructure tools. |
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-MA-Sheikh&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-MA-Sheikh&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=King-MA-Sheikh&show_icons=true&theme=github_dark" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-MA-Sheikh&layout=compact&theme=github_dark&langs_count=6" />
 </p>
 
 ---
 
-### 🎥 My YouTube Channel
+## 🎥 YouTube Channel
 
-<p align="center">
-<a href="https://www.youtube.com/@IT_Tech_with_Sheikh"><img src="https://raw.githubusercontent.com/King-MA-Sheikh/King-MA-Sheikh/main/assets/youtube-cta.gif" alt="YouTube Channel" width="200"/></a><br>
-*For Python tutorials, DevOps walkthroughs, and project demos!*
-</p>
+Check out in-depth tutorials and walkthroughs:
+[**IT Tech with Sheikh**](https://www.youtube.com/@IT_Tech_with_Sheikh) 🎬
 
 ---
 
-### 📫 Connect With Me
+## 📫 Reach Me
 
-<table align="center">
-<tr>
-<td align="center">
-  <a href="mailto:alkamahsheikh900@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/><br>Email</a>
-</td>
-<td align="center">
-  <a href="https://github.com/King-MA-Sheikh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br>GitHub</a>
-</td>
-<td align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/><br>LinkedIn</a>
-</td>
-</tr>
-</table>
+- **Email:** alkamahsheikh900@gmail.com  
+- **GitHub:** [King‑MA‑Sheikh](https://github.com/King-MA-Sheikh)  
+- **LinkedIn:** *(your LinkedIn profile link)*
 
 ---
 
-> “Always learning, always building.” ✨
+> “Keep learning. Keep building.” ✨
