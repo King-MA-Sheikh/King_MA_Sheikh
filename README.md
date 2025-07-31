@@ -8,24 +8,29 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 
 ## 🛠️ Tech Stack & Tools  
 
-### Programming & Scripting  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60"/> &nbsp;
+### 💻 Languages & Scripting  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" title="Python"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="80" title="Bash"/> &nbsp;
 
-### Cloud & DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60"/> &nbsp;
+### ☁️ Cloud & DevOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="80" title="AWS"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80" title="Docker"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="80" title="Jenkins"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/> &nbsp;
 
-### Monitoring & Logging  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60"/> &nbsp;
+### 📊 Monitoring & Observability  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80" title="Grafana"/> &nbsp;
 
-### OS & Version Control  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/> &nbsp;
+### 🛢️ Databases  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" title="PostgreSQL"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="80" title="Oracle DB"/> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="80" title="SQL Server"/> &nbsp;
 
+### 🔧 Tools & Version Control  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" title="Git"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" title="Linux"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" title="VS Code"/> &nbsp;
 
 ## 🔥 **Featured Projects**  
 
