@@ -16,12 +16,11 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80" title="AWS"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80" title="Docker"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="80" title="Jenkins"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/> &nbsp;
 
 ### 🧱 Infrastructure as Code (IaC)
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" title="Terraform"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" title="Ansible"/>  
-<img src="https://www.vectorlogo.zone/logos/puppetlabs/puppetlabs-icon.svg" height="40" title="Puppet"/>  
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" title="Ansible"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppet/puppet-original.svg" height="80" title="Puppet"/> &nbsp;  
 
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
