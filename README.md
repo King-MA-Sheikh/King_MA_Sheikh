@@ -19,13 +19,12 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 
 ### 🧱 Infrastructure as Code (IaC)
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" title="Ansible"/>  
-<img src="https://raw.githubusercontent.com/aws/aws-icons-for-plantuml/v14.0/Large-Icons/Compute/Amazon-CloudWatch.png" height="80" title="CloudWatch" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" title="Ansible"/>   
 
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80" title="Grafana"/> &nbsp;
-![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://raw.githubusercontent.com/King-MA-Sheikh/assets/main/cloudwatch.svg" height="80" title="Amazon CloudWatch" />
 
 ### 🛢️ Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" title="PostgreSQL"/> &nbsp;
