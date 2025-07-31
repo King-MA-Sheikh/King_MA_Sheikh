@@ -18,6 +18,11 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="80" title="Jenkins"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/> &nbsp;
 
+### 🧱 Infrastructure as Code (IaC)
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" title="Terraform"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" title="Ansible"/>  
+<img src="https://www.vectorlogo.zone/logos/puppetlabs/puppetlabs-icon.svg" height="40" title="Puppet"/>  
+
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80" title="Grafana"/> &nbsp;
