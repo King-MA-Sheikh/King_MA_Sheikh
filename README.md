@@ -24,7 +24,7 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80" title="Grafana"/> &nbsp;
-<img src="https://github.com/King-MA-Sheikh/King-MA-Sheikh/blob/main/assets/cloudwatch.svg?raw=true" height="80" />
+<img src="https://raw.githubusercontent.com/King-MA-Sheikh/King-MA-Sheikh/main/assets/cloudwatch.svg" height="80" title="Amazon CloudWatch"/>
 
 ### 🛢️ Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" title="PostgreSQL"/> &nbsp;
