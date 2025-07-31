@@ -25,6 +25,7 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80" title="Grafana"/> &nbsp;
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🛢️ Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" title="PostgreSQL"/> &nbsp;
