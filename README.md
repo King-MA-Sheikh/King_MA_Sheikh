@@ -20,7 +20,7 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 ### 🧱 Infrastructure as Code (IaC)
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" title="Ansible"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Puppet_Logo.png" height="80" title="Puppet"/> &nbsp;  
+![Puppet](https://img.shields.io/badge/Puppet-302B6D?style=for-the-badge&logo=puppet&logoColor=FFAE1A)  
 
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
