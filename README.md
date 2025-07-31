@@ -13,7 +13,7 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="80" title="Bash"/> &nbsp;
 
 ### ☁️ Cloud & DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="80" title="AWS"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80" title="AWS"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80" title="Docker"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="80" title="Jenkins"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" title="Terraform"/> &nbsp;
