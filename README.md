@@ -23,8 +23,8 @@ I build **scalable solutions**, solve **complex problems**, and automate **every
 
 ### <h3>🧬 Orchestration & Management</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" />
-<img src="https://raw.githubusercontent.com/King-MA-Sheikh/King-MA-Sheikh/main/assets/k8s-cluster.svg" height="40" title="K8s Cluster" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" /> &nbsp;
+[<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/stacked/color/kubernetes-stacked-color.svg" width="120" title="K8s Cluster Architecture">](https://kubernetes.io/)
 
 ### 📊 Monitoring & Observability  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" title="Prometheus"/> &nbsp;
